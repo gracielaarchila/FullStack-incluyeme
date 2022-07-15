@@ -1,0 +1,16 @@
+html {
+  height: 100vh;
+}
+
+body {
+  height: 100%;
+  background-color: rgb(195, 204, 212);
+  margin: 20px auto;
+}
+
+section.section{
+  margin: 50px 0;
+}
+
+section.section-cards{
+justify-content: center;}
